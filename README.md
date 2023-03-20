@@ -2,7 +2,7 @@
 My name is Daniel
 
 
-## Skills: 
+#### Skills: 
 * 🐍 Python
 * 💾 Django
 * 🤖 UiPath
