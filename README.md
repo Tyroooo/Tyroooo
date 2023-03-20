@@ -1,4 +1,6 @@
-### Hi there 👋, my name is Daniel
+### Hi there 👋 
+My name is Daniel
+
 
 Skills: Python / Django / HTML / CSS / UiPath
 
