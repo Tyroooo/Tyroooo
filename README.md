@@ -5,6 +5,7 @@ My name is Daniel
 #### Skills: 
 * 🐍 Python
 * 🌐 Django
+* 📑 SQL
 * 🤖 UiPath
 * 🖥️ HTML, CSS
 
